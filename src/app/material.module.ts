@@ -41,5 +41,4 @@ import { NgModule } from '@angular/core'
     MatSnackBarModule,
   ],
 })
-
-export class MaterialModule { }
+export class MaterialModule {}
